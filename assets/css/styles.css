@@ -113,6 +113,8 @@ body {
   font-size: var(--normal-font-size);
   background-color: var(--body-color);
   color: var(--text-color);
+  margin-bottom: 0;
+  padding-bottom: 0;
 }
 
 h1, h2, h3, h4 {
@@ -541,7 +543,7 @@ width: 80%;
   width: 90%;
   }
 .skills_js{
-    width: 90%;
+    width: 50%;
 }
 
 .skills_java{
