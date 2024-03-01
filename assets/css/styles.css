@@ -539,9 +539,19 @@ width: 80%;
 .skills_css{
   width: 60%;
 }
+
 .skills_bootstrap{
+  width: 80%;
+}
+
+.skills_angular{
   width: 90%;
-  }
+}
+
+.skills_ionic{
+  width: 40%;
+}
+
 .skills_js{
     width: 50%;
 }
@@ -556,41 +566,47 @@ width: 80%;
 
 .skills_mysql{
   width: 60%;
-  }
+}
+
 .skills_c2{
   width: 50%;
 }
 
 .skills_c3{
   width: 62%;
-  }
+}
 
 .skills_python{
   width: 66%;
-  }
+}
+
 .skills_html{
   width: 80%;
-  }
+}
+
 .skills_git{
   width: 80%;
-  }
+}
 
 .skills_github{
   width: 70%;
-  }
-  .skills_php{
+}
+
+.skills_php{
     width: 50%;
-    }
+}
 
 .skills_figma{
   width: 60%;
-  }
+}
+
 .skills_photoshop{
   width: 40%;
-  }
+}
+
 .skills_sketch{
   width: 60%;
-  }
+}
 
 .skills_close .skills_list{
   height: 0;
@@ -605,6 +621,7 @@ width: 80%;
 .skills_open .skills_arrow{
   transform: rotate(-180deg);
 }
+
 /*==================== QUALIFICATION ====================*/
 .qualification_tabs{
   display: flex;
