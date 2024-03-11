@@ -799,6 +799,12 @@ color: var(--first-color);
   justify-self: center;
 }
 
+.portfolio-video{
+  width: 450px;
+  border-radius: .5rem;
+  justify-self: center;
+}
+
 .portfolio_title{
   font-size:var(--h3-font-size);
   margin-bottom: var(--mb-0-5);
